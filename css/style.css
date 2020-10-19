@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 .controller{
     width: 1px;
@@ -24,9 +25,9 @@
 #cover{
     background-color: #222;
     opacity: .8;
-    margin-left:20%; 
+    margin-left:13%; 
     border-radius: none;
-    width: 55%;
+    width: 75%;
     padding-left: 30px;
     padding-right: 30px;
     padding-bottom: 50px;
